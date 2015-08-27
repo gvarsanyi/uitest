@@ -4,7 +4,7 @@
   var hints   = {},
       path    = 'https://gvarsanyi.github.io/uitest/',
       scripts = [path + 'lib/chai.js', path + 'lib/mocha.js',
-                 path + 'lib/blanket.js', path + 'jshint.js'];
+                 path + 'lib/blanket.js', path + 'lib/jshint.js'];
 
 
   function addNode(parent, type, attributes) {
