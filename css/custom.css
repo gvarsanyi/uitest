@@ -5,6 +5,10 @@
   max-width:        1000px !important;
 }
 
+#blanket-main .bl-source {
+  font-size: 13px !important;
+}
+
 #mocha {
   max-width: 1000px !important;
 }
