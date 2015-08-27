@@ -1,0 +1,52 @@
+
+#blanket-main {
+  background-color: transparent !important;
+  margin:           0 50px 60px !important;
+  max-width:        1000px !important;
+}
+
+#mocha {
+  max-width: 1000px !important;
+}
+
+#mocha-stats {
+  position: relative !important;
+  top:      -20px !important;
+}
+
+#jshints {
+  color:       #444;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size:   13px;
+  margin:      0 50px 60px;
+  max-width:   1000px;
+}
+
+#jshints H3 .ok {
+  color: #383;
+}
+
+#jshints H3 .error {
+  color: #f33;
+}
+
+#jshints UL PRE {
+  display: block;
+  margin: 5px;
+  padding: 15px;
+  border: 1px solid #eee;
+  word-wrap: break-word;
+  border-bottom-color: #ddd;
+  border-radius: 3px;
+}
+
+#jshints LI .pos {
+  font-weight: bold;
+  padding:     0 10px 0 0;
+}
+
+#jshints LI PRE .highlight {
+  background: #fbb;
+  border-radius: 8px;
+  color:      #000;
+}
